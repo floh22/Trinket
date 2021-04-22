@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trinket", "Trinket.csproj", "{65F54470-5F33-4767-A996-99CC2725D4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F54470-5F33-4767-A996-99CC2725D4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F54470-5F33-4767-A996-99CC2725D4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F54470-5F33-4767-A996-99CC2725D4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F54470-5F33-4767-A996-99CC2725D4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8C449B-0C79-49D8-8C17-9A3C61B6CA5E}
+	EndGlobalSection
+EndGlobal
