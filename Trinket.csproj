@@ -4,8 +4,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <OutputType>Library</OutputType>
     <Authors>Lars Eble</Authors>
-    <Description>C# Wrapper for League of Legends LiveEvents API</Description>
+    <Description>Wrapper for League of Legends LiveEvents API</Description>
     <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/floh22/Trinket</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/floh22/Trinket</RepositoryUrl>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <PackageId>floh22.Trinket</PackageId>
+    <Company />
+    <PackageIcon></PackageIcon>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>LeagueOfLegends, API, League, of, Legends, Riot, RiotGames, LoL</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
