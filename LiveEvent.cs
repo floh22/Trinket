@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Trinket
+namespace floh22.Trinket
 {
-    class LiveEvent : EventArgs
+    public class LiveEvent : EventArgs
     {
         [JsonPropertyName("eventname")]
         public string EventName { get; set; }

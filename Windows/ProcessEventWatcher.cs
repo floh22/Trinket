@@ -2,7 +2,7 @@
 using System.Management;
 using System.Threading.Tasks;
 
-namespace Trinket.Windows
+namespace floh22.Trinket.Windows
 {
 
     //https://github.com/Johannes-Schneider/GoldDiff/blob/master/GoldDiff/OperatingSystem/ProcessEventWatcher.cs

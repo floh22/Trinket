@@ -6,11 +6,11 @@ using System.Text;
 using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
-using Trinket.Windows;
+using floh22.Trinket.Windows;
 
-namespace Trinket
+namespace floh22.Trinket
 {
-    class Trinket
+    public class Trinket
     {
         private bool _run = true;
         private bool _forceExit = false;
@@ -56,7 +56,7 @@ namespace Trinket
             {
                 soc.Connect("127.0.0.1", 34243);
             }
-            catch (SocketException e)
+            catch (SocketException)
             {
                 OnConnectionError?.Invoke(this, EventArgs.Empty);
             }

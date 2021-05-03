@@ -14,6 +14,9 @@
     <PackageIcon></PackageIcon>
     <RepositoryType>Git</RepositoryType>
     <PackageTags>LeagueOfLegends, API, League, of, Legends, Riot, RiotGames, LoL</PackageTags>
+    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.5.0</AssemblyVersion>
+    <FileVersion>1.0.4.21123</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
